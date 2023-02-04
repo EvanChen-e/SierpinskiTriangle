@@ -1,4 +1,4 @@
-public void settings() { //repl.it muse call size here
+public void setup() { //repl.it muse call size here
     size(500, 500);
   }
   int x = 0;
